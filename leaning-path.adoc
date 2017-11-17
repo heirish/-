@@ -1,0 +1,15 @@
+:hardbreaks:
+
+Ref:
+https://machinelearningmastery.com/build-a-machine-learning-portfolio/
+
+A machine learning portfolio is a collection of completed independent projects, 
+each of which uses machine learning in some way.
+The folio presents the collection of projects and allows review of individual projects.
+Five properties of an effective machine learning portfolio include:
+
+- *Accessible*: I advocate making the portfolio public in the form of a publicly accessible webpage or collection of public code repositories. You want people to find, read, comment on, and use your work if possible.
+- *Small*: Each project should be small in scope in terms of effort, resources, and most importantly, your time (10-20 hours). You’re busy and it’s hard to keep focus. See my Small Projects Methodology.
+- *Completed*: Small projects help you have finished projects. Set a modest project objective and achieve it. Like mini-experiments, you present the findings of your successes and your failures, they are all useful learnings.
+- *Independent*: Each project should be independent so that it can be understood in isolation. This does not mean you can’t leverage prior work, it means that the project makes sense on its own as a standalone piece of work.
+- *Understandable*: Each project must clearly and effectively communicate it’s purpose and findings (at the very least). Spend some time and make sure a fresh set of eyes understand what you did and why it matters.
